@@ -1,5 +1,5 @@
 # FileTreeSearch
-A simple graphical application that displays a searchable file system tree.
+A simple application that displays a searchable file system tree using PyQt.
 
 ### Screenshot during search
 ![alt text](https://github.com/kpigalkin/FileTreeSearch/blob/development/Screenshots/search_state.jpg)
